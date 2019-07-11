@@ -1,0 +1,56 @@
+html {
+    background-color: maroon;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+body { 
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 75px 75px;
+    border-radius: 20px
+}
+
+.Img{
+    text-align: center
+}
+h1,h2,h3 {
+    font-family: 'maven pro', sans-serif
+}
+
+h1 {
+    color: #808000;
+}
+
+h2,h3 {
+    color: maroon;
+}
+
+button {
+    color: white;
+    background-color: #808000;
+    font-variant: small-caps;
+    padding: 5px 15px;
+    font-size: 18px;
+}
+
+.Result{
+    color: maroon
+}
+
+.Calculate{
+    font-variant: small-caps;
+    border: 1px solid black
+}
+
+div.calc-box {
+    background-color: rgb(235, 235, 235);
+    padding: 10px 50px;
+    border: 1px solid gray;
+}
+
+p {
+    letter-spacing: 0.3px;
+    font-family: 'open sans', sans-serif
+}
